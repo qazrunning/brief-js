@@ -1,1 +1,2 @@
-console.log(789)
+import {getURLParameters} from './utils'
+getURLParameters()
