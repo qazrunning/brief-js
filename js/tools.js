@@ -77,4 +77,5 @@ export {
     addClass,
     removeClass,
     fullscreen
+    
 }
